@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ## Want to know a little bit more?
-[![Lucacks Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucacks/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://www.codepen.com/Lucacks)
+[![Lucacks Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucacks/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/lucacks)
 
 
 ![](https://raw.githubusercontent.com/Lucacks/30-days-Javascripts-challenge/main/Day_1/Footer.png)
