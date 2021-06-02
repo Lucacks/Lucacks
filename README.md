@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## 📚 And some technologies I'm learning 📚
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
-### Aliás, I know a lot of english und ich lerne Deutsch 
+![Lucacks' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucacks&theme=white-blue)
 
 
 ## Want to know a little bit more?
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lucacks/) ![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://www.codepen.com/Lucacks)
+[![Lucacks Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucacks/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://www.codepen.com/Lucacks)
 
 
 ![](https://raw.githubusercontent.com/Lucacks/30-days-Javascripts-challenge/main/Day_1/Footer.png)
