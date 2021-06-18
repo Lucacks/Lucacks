@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/Lucacks/30-days-Javascripts-challenge/main/Day_1/Header.png)
 
 ### I'm from Brazil and I'm a front-end developer, but who knows in the future I'll be a gamedev too?
-### At the moment I'm working at a college project: [Life Change](https://github.com/Lucacks/Life_Change)
+### 🔭 At the moment I'm working at a college project: [Life Change](https://github.com/Lucacks/Life_Change)
 
 
 ## 💻 Some technologies I know/study 💻
