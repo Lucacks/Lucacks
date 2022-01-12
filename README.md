@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Header.png?token=GHSAT0AAAAAABQGT6FV33R4GDV6DL4QVRQ6YO7I54Q)
 
-### I'm from Brazil and I'm a front-end developer, but who knows in the future I'll be a gamedev too?
-### 🔭 At the moment I'm working in some Javascript/Node.JS exercises: [Let's Code](https://github.com/Lucacks/Lets-Code)
+### I'm from Brazil and I'm a front-end developer studying some back-end technologies, but who knows in the future I'll be a gamedev too?
+### 🔭 At the moment I'm learning JS/Node/SQL with some exercises proposed by [Let's Code](https://letscode.com.br/): [My repository](https://github.com/Lucacks/Lets-Code)
 
 
 ## 💻 Some technologies I know/study 💻
