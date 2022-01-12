@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Header.png)
+![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Header.png?token=GHSAT0AAAAAABQGT6FVIIDMFLZXBNY3TTT4YO7I2VA)
 
 ### I'm from Brazil and I'm a front-end developer, but who knows in the future I'll be a gamedev too?
 ### 🔭 At the moment I'm working in some Javascript/Node.JS exercises: [Let's Code](https://github.com/Lucacks/Lets-Code)
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [![Lucacks Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucacks/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/lucacks)
 
 
-![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Footer.png?token=GHSAT0AAAAAABQGT6FVX5ISGFHQ3SGHM36OYO7IWJA)
+![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Footer.png?token=GHSAT0AAAAAABQGT6FVKYWPMHQW6NQTBZHCYO7I2NA)
