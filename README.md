@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [![Lucacks Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucacks/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/lucacks)
 
 
-![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Footer.png)
+![](https://raw.githubusercontent.com/Lucacks/NEVER-DELETE/main/Footer.png?token=GHSAT0AAAAAABQGT6FVX5ISGFHQ3SGHM36OYO7IWJA)
