@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Lucacks&repo=Lets-Code&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Lucacks&repo=Lets-Code&theme=react"
       alt="Lucacks-repo"
     />
   </a>
@@ -71,24 +71,29 @@ Here are some ideas to get you started:
   <img 
        align="center"
        height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=Lucacks&show_icons=true&theme=radical" alt="github-stats"
+       src="https://github-readme-stats.vercel.app/api?username=Lucacks&show_icons=true&theme=react" alt="github-stats"
   />
   <img 
        align="center"
        height="150em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucacks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=radical" alt="top-languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucacks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=react" alt="top-languages"
    />
 </p>
 <p align="center">
   <img 
      align="center"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=Lucacks&theme=radical" alt="github-stats"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Lucacks&theme=react" alt="github-stats"
   />
 </p>
 <br>
 
 <h2 align="center">Want to know a little bit more?</h2>
 <p align="center">
+  <a href="https://www.linkedin.com/in/lucacks/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
   <a href="https://instagram.com/lucacks_/">
     <img
       align="center"
@@ -100,11 +105,6 @@ Here are some ideas to get you started:
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
-  </a>
-  <a href="https://www.linkedin.com/in/lucacks/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
   <a href="https://codepen.io/lucacks">
     <img
