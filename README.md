@@ -17,25 +17,101 @@ Here are some ideas to get you started:
 
 ![](https://i.imgur.com/2KK3I8Q.png)
 
-### I'm from Brazil and I'm a front-end developer studying some back-end technologies, but who knows in the future I'll be a gamedev too?
-### 🔭 At the moment I'm learning JS/Node/SQL with some exercises proposed by [Let's Code](https://letscode.com.br/): [My repository](https://github.com/Lucacks/Lets-Code)
+<h1 align="center"> I'm 27 and I'm from Brazil.</h1>
+<h3 align="center"> Currently working as a web developer, but studying some back-end technologies.</h3>
+<br>
 
+<h3 align="center">At the moment I'm learning JS/Node/SQL with some exercises proposed by <a href="https://letscode.com.br/">Lets' Code</a></h3>
+<p align="center">
+  <a href="https://github.com/Lucacks/Lets-Code">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Lucacks&repo=Lets-Code&theme=radical"
+      alt="Lucacks-repo"
+    />
+  </a>
+</p>
+<br>
 
-## 💻 Some technologies I know/study 💻
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<h3 align="center">Here are some technologies and tools I use and study</h3>
+<p align="center">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+   </a>
+   <a href="https://sass-lang.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   </a>
+   <a href="https://nodejs.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+   <a href="https://www.mysql.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+   </a>
+   <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://www.figma.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+   </a>
+   <a href="https://www.adobe.com/br/products/photoshop.html">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+   </a>
+   <a href="https://www.adobe.com/br/products/illustrator.html">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
+   </a>  
+</p>
+<br>
 
-### Design tools
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
+<h2 align="center">My Github stats</h2>
+<p align="center">
+  <img 
+       align="center"
+       height="150em"
+       src="https://github-readme-stats.vercel.app/api?username=Lucacks&show_icons=true&theme=radical" alt="github-stats"
+  />
+  <img 
+       align="center"
+       height="150em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucacks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=radical" alt="top-languages"
+   />
+</p>
+<p align="center">
+  <img 
+     align="center"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Lucacks&theme=radical" alt="github-stats"
+  />
+</p>
+<br>
 
-
-## 📚 And some technologies I'm learning 📚
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-
-![Lucacks' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucacks&theme=white-blue)
-
-
-## Want to know a little bit more?
-[![Lucacks Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lucacks/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/lucacks)
-
-
+<h2 align="center">Want to know a little bit more?</h2>
+<p align="center">
+  <a href="https://instagram.com/lucacks_/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://twitter.com/Lucacks_">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/lucacks/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+  <a href="https://codepen.io/lucacks">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Codepen-1C1C1C?style=for-the-badge&logo=codepen&logoColor=00FFFF"
+  </a>
+</p>
+<br>
+    
 ![](https://i.imgur.com/GzYWN8t.png)
