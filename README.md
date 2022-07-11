@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://i.imgur.com/2KK3I8Q.png)
 
-<h1 align="center"> I'm 27 and I'm from Brazil.</h1>
-<h3 align="center"> Currently working as a web developer, but studying some back-end technologies.</h3>
+<h1 align="center"> I'm 28 and I'm from Brazil.</h1>
+<h3 align="center"> Currently working as a fullstack developer and studying game development.</h3>
 <br>
 
 <h3 align="center">At the moment I'm learning JS/Node/SQL with some exercises proposed by <a href="https://letscode.com.br/">Lets' Code</a></h3>
