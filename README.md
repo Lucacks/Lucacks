@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 ![](https://i.imgur.com/2KK3I8Q.png)
 
 <h1 align="center"> I'm 28 and I'm from Brazil.</h1>
-<h3 align="center"> Currently working as a fullstack developer and studying game development.</h3>
+<h3 align="center"> Currently working as a front-end developer and studying game development (Unity).</h3>
 <br>
 
-<h3 align="center">At the moment I'm learning JS/Node/SQL with some exercises proposed by <a href="https://letscode.com.br/">Lets' Code</a></h3>
+<h3 align="center">At the moment I'm learning C# with some exercises proposed by <a href="https://www.udemy.com/course/unitycourse/">Gamedev.TV Udemy course</a></h3>.
 <p align="center">
   <a href="https://github.com/Lucacks/Lets-Code">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Lucacks&repo=Lets-Code&theme=react"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Lucacks&repo=unity-2d-course&theme=react"
       alt="Lucacks-repo"
     />
   </a>
@@ -45,12 +45,6 @@ Here are some ideas to get you started:
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="https://www.mysql.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-   </a>
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
@@ -62,7 +56,10 @@ Here are some ideas to get you started:
    </a>
    <a href="https://www.adobe.com/br/products/illustrator.html">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-   </a>  
+   </a>
+   <a href="https://unity.com/">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="40" height="40"/>
+   </a>
 </p>
 <br>
 
@@ -94,7 +91,7 @@ Here are some ideas to get you started:
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="https://instagram.com/lucacks_/">
+  <a href="https://instagram.com/FML_Lucacks/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
