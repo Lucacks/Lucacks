@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">At the moment I'm learning C# with some exercises proposed by <a href="https://www.udemy.com/course/unitycourse/">Gamedev.TV Udemy course</a></h3>.
 <p align="center">
-  <a href="https://github.com/Lucacks/Lets-Code">
+  <a href="https://github.com/Lucacks/unity-2d-course">
     <img
       align="center"
       height="120em"
