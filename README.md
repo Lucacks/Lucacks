@@ -1,114 +1,38 @@
-<!-- 
-### Hi there 👋
+<img src="https://media.tenor.com/dyoCFHNiIAwAAAAC/peepo-hey-peepo.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-**Lucacks/Lucacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://i.imgur.com/2KK3I8Q.png)
-
-<h1 align="center"> I'm 28 and I'm from Brazil.</h1>
-<h3 align="center"> Currently working as a front-end developer and studying game development (Unity).</h3>
-<br>
-
-<h3 align="center">At the moment I'm learning C# with some exercises proposed by <a href="https://www.udemy.com/course/unitycourse/">Gamedev.TV Udemy course</a></h3>.
-<p align="center">
-  <a href="https://github.com/Lucacks/unity-2d-course">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Lucacks&repo=unity-2d-course&theme=react"
-      alt="Lucacks-repo"
-    />
-  </a>
+<h1 align="left">
+  Hello, I'm Lucas! (:
+</h1>
+<p align="left"> 
+  I'm a frontend developer and a data analysis/science student.
+  At the moment I'm working at a company called Linx (Stone CO) with VueJS and Python. Also I'm studying SQL, PowerBI and Python for data.
+  I can say my favorite hobby is develop games with Unreal Engine 5, but I keep it for my free time. When I'm not
 </p>
-<br>
 
-<h3 align="center">Here are some technologies and tools I use and study</h3>
-<p align="center">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://sass-lang.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
-   <a href="https://www.figma.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-   </a>
-   <a href="https://www.adobe.com/br/products/photoshop.html">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-   </a>
-   <a href="https://www.adobe.com/br/products/illustrator.html">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-   </a>
-   <a href="https://unity.com/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="40" height="40"/>
-   </a>
+<p align="left">
+  🦄 <strong>Languages:</strong> HTML, SASS, Javascript, SQL, Python, VueJS
 </p>
-<br>
 
-<h2 align="center">My Github stats</h2>
-<p align="center">
-  <img 
-       align="center"
-       height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=Lucacks&show_icons=true&theme=react" alt="github-stats"
-  />
-  <img 
-       align="center"
-       height="150em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucacks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=react" alt="top-languages"
-   />
+<p align="left">
+  💼 <strong>Tools:</strong> SQL Workbench, Postman, Linux, Docker, Jira
 </p>
-<p align="center">
-  <img 
-     align="center"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=Lucacks&theme=react" alt="github-stats"
-  />
-</p>
-<br>
 
-<h2 align="center">Want to know a little bit more?</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucacks/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
-  <a href="https://instagram.com/FML_Lucacks/">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
-    />
-  </a>
-  <a href="https://twitter.com/Lucacks_">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
-    />
-  </a>
-  <a href="https://codepen.io/lucacks">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Codepen-1C1C1C?style=for-the-badge&logo=codepen&logoColor=00FFFF"
-  </a>
+<p align="left">
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/366302"><strong>Beecrowd link</strong></a><br>
+  <a href="https://leetcode.com/Lucacks/"><strong>Leetcode link</strong></a>
 </p>
-<br>
-    
-![](https://i.imgur.com/GzYWN8t.png)
+
+<p align="left">
+  💌 If you want to see more, check the links below: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucacks/" alt="LinkedIn"/></a>
+
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucacks/" alt="Instagram"/></a>
+
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=alveslucaso094@gmail.com" alt="Gmail"/></a>
+</p>
